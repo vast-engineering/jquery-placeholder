@@ -1,0 +1,19 @@
+{
+  "name": "jquery-placeholder",
+  "version": "2.0.8",
+  "description": "A jQuery plugin that enables HTML5 placeholder support for legacy browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vast-engineering/jQuery-Placeholder-Newlines.git"
+  },
+  "keywords": [
+    "jquery",
+    "placeholder"
+  ],
+  "author": "Vast",
+  "license": "BSD"
+}
